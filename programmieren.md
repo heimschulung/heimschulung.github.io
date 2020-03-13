@@ -15,4 +15,4 @@ Programmieren lernen mit dem Code Monster und ganz nebenbei auch noch etwas Engl
 
 ## Codecombat
 
-Statt die freie Zeit mit Fortnite zu verbringen könnten die Jugendlichen bei [Codecombat](https://codecombat.com/) nebst Gegnern auszuweichen auch noch Python oder Javascript lernen.
+Statt die freie Zeit mit Fortnite zu verbringen können die Jugendlichen bei [Codecombat](https://codecombat.com/) nebst Gegnern ausweichen auch noch Python oder Javascript lernen.
