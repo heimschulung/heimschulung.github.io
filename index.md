@@ -33,4 +33,4 @@ Markdown ist eine einfache Syntax um Texte fürs Web zu erstellen. Hier ein paar
 [Link](url) and ![Image](src)
 ```
 
-Weiter Details zur MarkDown Sprache gibts auf [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Weiter Details zur Markdown Sprache gibts auf [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
