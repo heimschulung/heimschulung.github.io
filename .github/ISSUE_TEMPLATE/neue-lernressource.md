@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Themengebit**
+**Themengebiet**
 Reisen, Programmieren, Sprachen, ...
 
 **Beschreibung.**
