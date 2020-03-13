@@ -4,7 +4,8 @@ Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Ki
 ## Resourcen
 
 * [Virtuelle Reisen](reisen.md)
-* [Programmieren Lernen](programmieren.md)
+* [Informatik](programmieren.md)
+* [Deutsch](deutsch.md)
 
 ## Hilf mit!
 
