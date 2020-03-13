@@ -1,4 +1,4 @@
-# Lernvideos
+# Lernvideos und Wissens-Sendungen
 
 ## SRF MySchool
 
