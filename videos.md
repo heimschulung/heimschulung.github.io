@@ -6,4 +6,4 @@ Das Schweizer Fernsehen hat auf einer eigenen Seite alle Videos zu verschiedenst
 
 ## Sendung mit der Maus - Sachgeschichten
 
-Wahrscheinlich die grösste Sach-Kurzfilm-Sammlung im deutschsprachigen Raum - geordnet nach dem Alphabet und Themen - [Sendung mit der Maus - Sachgeschichten(https://www.wdrmaus.de/filme/sachgeschichten/index.php5?filter=alle)
+Wahrscheinlich die grösste Sach-Kurzfilm-Sammlung im deutschsprachigen Raum - geordnet nach dem Alphabet und Themen - [Sendung mit der Maus - Sachgeschichten](https://www.wdrmaus.de/filme/sachgeschichten/index.php5?filter=alle)
