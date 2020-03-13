@@ -8,7 +8,7 @@ Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Ki
 
 ## Hilf mit!
 
-Hilf mit diese Sammlung zu erweitern. Erzeuge ein Issue mit deinem Hinweis oder editiere die Seiten direkt und mache dann einen Pull Request.
+Hilf mit diese Sammlung zu erweitern. Erzeuge ein [Issue](https://github.com/heimschulung/heimschulung.github.io/issues/new/choose) mit deinem Hinweis oder editiere die Seiten direkt und mache dann einen Pull Request.
 
 ### Kleine Markdown Anleitung
 
