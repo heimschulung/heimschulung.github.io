@@ -1,7 +1,7 @@
-# Programmieren
+# Informatik
 
-Programmieren gehört zu den Sachen die auf dem Lehrplan stehen, für die es aber auch im Netz diverse gute Quellen zum Selbststudium gibt.
+Programmieren lernen - eine Kompetenz im Lehrplan 21. Dazu gibt es im Netz diverse gute Quellen, für Einsteiger bis Fortgeschrittene. Viele Programme bieten gute Tutorials, die Lernenden werden schrittweise ins Thema eingeführt.
 
-## JavaScript Programmieren Lerenen mit dem Code Monster
+## JavaScript Programmieren Lernen mit dem Code Monster
 
-Programmieren lerenen mit dem Code Monster und ganz nebenbei auch noch etwas englisch lernen? Bei [Crunshzilla](http://www.crunchzilla.com/code-monster) gibt es beides.
+Programmieren lernen mit dem Code Monster und ganz nebenbei auch noch etwas Englisch lernen mit [Crunshzilla](http://www.crunchzilla.com/code-monster) gibt es beides.
