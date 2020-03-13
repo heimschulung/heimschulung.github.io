@@ -1,35 +1,27 @@
-## Resourcen für Heimschulung
+# Resourcen für Heimschulung
 
-Mit der Schliessung der Schulen sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Kinder zu beschäftigen sind.
+Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Kinder zu beschäftigen sind in der Zeit der geschlossenen Schulen. Der Zweck dieser Website ist es Ideen zu sammeln und zu teilen. Mitmachen ist ganz einfach: Ein Konto auf Github einrichten und die Seiten bearbeiten.
 
-### Markdown
+## Resourcen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Kleine Markdown Anleitung
+
+Markdown ist eine einfache Syntax um Texte fürs Web zu erstellen. Hier ein paar Beispiele:
 
 ```markdown
-Syntax highlighted code block
+# Titel
+## Untertitel
+### Abschnitt
 
-# Header 1
-## Header 2
-### Header 3
+- Einfache
+- Liste
 
-- Bulleted
-- List
+1. Nummerierte
+2. Liste
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**Fett** and _Schräg_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heimschulung/heimschulung.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Weiter Details zur MarkDown Sprache gibts auf [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
