@@ -1,4 +1,4 @@
-# Resourcen für Heimschulung
+# Ressourcen für Heimschulung
 
 Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Kinder zu beschäftigen sind in der Zeit der geschlossenen Schulen. Der Zweck dieser Website ist es Ideen zu sammeln und zu teilen. 
 ## Resourcen
