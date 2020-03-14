@@ -7,6 +7,7 @@ Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Ki
 * [Virtuelle Reisen](reisen.md)
 * [Informatik](programmieren.md)
 * [Deutsch](deutsch.md)
+* [Mathematik](mathematik.md)
 * [Lernvideos, Wissens-Sendungen](videos.md)
 * [Lerninhalte erstellen](authoring.md)
 * [Übungs-Sammlungen](sammlungen.md)
