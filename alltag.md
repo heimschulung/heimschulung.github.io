@@ -1,6 +1,6 @@
 # Tipps für den Alltag ohne öffentliche Schule
 
-Plötzlich alle Kinder den ganzen Tag zuhause, mit andern Kindern spielen sollten sie nicht, einfach nur Ferien mahen oder den ganzen Tag YouTube Filmli schauen ist auch keine Lösung. Also was jetzt?
+Plötzlich alle Kinder den ganzen Tag zuhause, mit andern Kindern spielen sollten sie nicht, einfach nur Ferien machen oder den ganzen Tag YouTube Filmli schauen ist auch keine Lösung. Also was jetzt?
 
 ## Tipps von einer Homeschool Mama
 
