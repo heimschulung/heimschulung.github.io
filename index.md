@@ -8,6 +8,7 @@ Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Ki
 * [Informatik](programmieren.md)
 * [Deutsch](deutsch.md)
 * [Lernvideos, Wissens-Sendungen](videos.md)
+* [Lerninhalte erstellen](authoring.md)
 
 ## Hilf mit!
 
