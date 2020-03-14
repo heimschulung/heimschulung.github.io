@@ -25,5 +25,5 @@ Schulfrei, alle Kinder zuhause. Ideen, wie man Kinder zuhause unterhalten kann? 
 * Amazon Prime Abo
 * Disney+ Abo
 * 5 Kisten Wein
-* 4 Flaschen Kirsch
+* 1 Kurpackung Valium
 * folgende Bücher: "Erziehung ohne Gewalt"; "An Familienkrisen wachsen"; "Meditationsübungen für gestresste Mütter" und "Herzinfakt: die Gefahr früh erkennen" 
