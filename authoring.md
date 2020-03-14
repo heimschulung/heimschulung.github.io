@@ -4,4 +4,4 @@ Es gibt zwar viele Resourcen im Netz, aber oft passts ja dann doch nicht ganz ge
 
 # LernPfad
 
-[LernPfad](https://lernpfad.ch/) ist ein digitales Tool, das Lernen mit Inhalten aus unterschiedlichen Quellen vereinfacht. 
+[LernPfad](https://lernpfad.ch/) ist ein digitales Tool, das Lernen mit Inhalten aus unterschiedlichen Quellen vereinfacht. Lernpfade können interaktiv erstellt werden. 
