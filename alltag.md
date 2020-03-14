@@ -8,3 +8,7 @@ T.S. unterrichtet seit über sechs Jahren ihre Kinder zu Hause, in ihrem Blog te
 Erfahrungen und hat ein Listical mit [Tipps
 für die Umstellung von Bildung in der Schule auf Bildung zu Hause](https://swisshomeschoolfamily.org/2020/03/14/kinder-zu-hause-tipps-von-einer-homeschool-mama/)
 verfasst.
+
+## Kinder zuhause - Ideen, wie man die Kinder unterhalten kann
+
+Schulfrei, alle Kinder zuhause. Ideen, wie man Kinder zuhause unterhalten kann? [Eine lange lange Liste mit Ideen]( https://www.mamasunplugged.ch/kinder-zuhause-ideen-wie-man-die-kinder-unterhalten-kann/?fbclid=IwAR2J_KqlFCqAszlWLsA-tN-HW3yEFlF8PhYFrJIKzaT71U81UrYs4O9huE0)
