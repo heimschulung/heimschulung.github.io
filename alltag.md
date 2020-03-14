@@ -17,8 +17,8 @@ Schulfrei, alle Kinder zuhause. Ideen, wie man Kinder zuhause unterhalten kann? 
 
 * 4 Packungen Ohropax
 * 3'000 Bügelperlen
-* Schnapspralinen für die Nachbarn
-* Schnapspralinen für Mama
+* Kirschstängeli für die Nachbarn
+* Kirschstängeli für Mama
 * XL-Ausmalposter
 * 2'000-Teile-Puzzle
 * Netflix Abo
