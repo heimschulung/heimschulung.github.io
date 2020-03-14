@@ -10,6 +10,7 @@ Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Ki
 * [Lernvideos, Wissens-Sendungen](videos.md)
 * [Lerninhalte erstellen](authoring.md)
 * [Übungs-Sammlungen](sammlungen.md)
+* [Den Alltag ohne Schule meistern](alltag.md)
 
 ## Hilf mit!
 
