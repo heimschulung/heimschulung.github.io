@@ -4,6 +4,7 @@ Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Ki
 
 ## Ressourcen
 
+* [Corona Virus](corona.md)
 * [Virtuelle Reisen](reisen.md)
 * [Informatik](programmieren.md)
 * [Deutsch](deutsch.md)
