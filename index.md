@@ -14,6 +14,10 @@ Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Ki
 * [Übungs-Sammlungen](sammlungen.md)
 * [Den Alltag ohne Schule meistern](alltag.md)
 
+## Letzte Änderungen
+
+Wir erhalten laufend neues Material das wir in die Site einbauen. [Hier](https://github.com/heimschulung/heimschulung.github.io/commits/master) kannst du sehen was wir geaendert haben.
+
 ## Hilf mit!
 
 Hilf mit diese Sammlung zu erweitern. Erzeuge ein [Issue](https://github.com/heimschulung/heimschulung.github.io/issues/new/choose) mit deinem Hinweis oder editiere die Seiten direkt und mache dann einen Pull Request.
