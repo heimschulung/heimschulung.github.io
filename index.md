@@ -13,7 +13,7 @@ Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Ki
 * [Lerninhalte erstellen](authoring.md)
 * [Übungs-Sammlungen](sammlungen.md)
 * [Den Alltag ohne Schule meistern](alltag.md)
-* [Etwas ganz neues Lernen](newstuff.md)
+* [Etwas ganz Neues lernen](newstuff.md)
 
 ## Letzte Änderungen
 
