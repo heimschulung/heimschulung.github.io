@@ -13,6 +13,11 @@ verfasst.
 
 Schulfrei, alle Kinder zuhause. Ideen, wie man Kinder zuhause unterhalten kann? [Eine lange lange Liste mit Ideen]( https://www.mamasunplugged.ch/kinder-zuhause-ideen-wie-man-die-kinder-unterhalten-kann/?fbclid=IwAR2J_KqlFCqAszlWLsA-tN-HW3yEFlF8PhYFrJIKzaT71U81UrYs4O9huE0)
 
+
+## SchlauMeier
+
+* Von Eltern zur Elternentlastung: täglich um 9 gibt es eine halbe Stunde Lektion (Basteln, Themen, Infos,...), Mitarbeit erwünscht, 16.-19. März ist schon geplant, [hier](https://www.schlaumeier.online/?fbclid=IwAR0zTOJwJUzjQQRtvAfPEI8IX2UlYsgeULj257g8-mKCRvqSK6GlojfPE_4) das Programm.
+
 ## Empfohlener Notvorrat
 
 * 4 Packungen Ohropax
@@ -27,7 +32,3 @@ Schulfrei, alle Kinder zuhause. Ideen, wie man Kinder zuhause unterhalten kann? 
 * 5 Kisten Wein
 * 1 Kurpackung Valium
 * folgende Bücher: "Erziehung ohne Gewalt"; "An Familienkrisen wachsen"; "Meditationsübungen für gestresste Mütter" und "Herzinfakt: die Gefahr früh erkennen" 
-
-## SchlauMeier
-
-* Von Eltern zur Elternentlastung: täglich um 9 gibt es eine halbe Stunde Lektion (Basteln, Themen, Infos,...), Mitarbeit erwünscht, 16.-19. März ist schon geplant, [hier](https://www.schlaumeier.online/?fbclid=IwAR0zTOJwJUzjQQRtvAfPEI8IX2UlYsgeULj257g8-mKCRvqSK6GlojfPE_4) das Programm.
