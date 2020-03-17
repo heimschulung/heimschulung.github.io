@@ -21,3 +21,7 @@ Eine riesige Sammlung von [Online-Übungen & Unterrichts-Materialien](https://al
 ## Planet Schule
 
 Das Gemeinschaftsprojekt von SWR und WDR bietet modernes, mediengestütztes Lernen und Unterrichten – für Lehrer, für Schüler und Bildungsinteressierte. Alles Weitere auf [Planet Schule](https://www.planet-schule.de/).
+
+## Lernbiene
+
+Der Verlag Lernbiene bietet [kosenloses Übungsmaterial für den Heimunterricht](https://www.lernbiene.de/Sonderaktion-Heimunterricht/) im Rahmen einer Sonderaktion an. Die Unterlagen richten sich an 1-4 Klasse. 
