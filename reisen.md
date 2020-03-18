@@ -11,3 +11,7 @@ Durch die Strassen von [New York](https://earth.google.com/web/@40.714791,-74.03
 ## Discovery Tour: Ancient Greece und Ancient Egypt
 
 Geführte Rundgänge im antike Griechenland bzw. Ägypten inklusive freier Erkundung um die interessanten Sehenswürdigkeiten und Personen kennenzulernen. Dieses sind spezielle Versionen des Spiels "Assassin's Creed". Die "Discovery Tours" enthalten im Gegensatz zum normalen Spiel keine Kämpfe. Systemanforderungen beachten, es wird ein moderner PC mit einer guten Grafikkarte benötigt. Die Software gibt es für ca 10 Franken bei [Ubisoft](https://store.ubi.com/de/discovery-tour--ancient-greece-by-ubisoft/5d4040cd5cdf9a07d09464ac.html)
+
+## Kinderweltreise
+
+Im [interaktiven Atlas](https://www.kinderweltreise.de/) gibt es eine Fülle von Informationen zu jedem Land der Erde. Von Kochrezepten zu Geschichten aus dem Alltag und kleinen Spielen. 
