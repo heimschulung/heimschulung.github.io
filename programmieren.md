@@ -5,7 +5,7 @@ Programmieren lernen - eine Kompetenz im Lehrplan 21. Dazu gibt es im Netz diver
 
 ## Scratch 
 
-Die wohl bekannteste und meistbenutzte visuelle Programmiersprache und Entwicklungsumgebung [scratch.mit.edu](https://scratch.mit.edu/). Wer dazu gerne einer Schritt-für-Schritt-Anleitung folgen möchte ist hiermit gut bedient: [Programmieren mit der Maus](https://programmieren.wdrmaus.de/)
+Die wohl bekannteste und meistbenutzte visuelle Programmiersprache und Entwicklungsumgebung [scratch.mit.edu](https://scratch.mit.edu/). Wer dazu gerne einer Schritt-für-Schritt-Anleitung folgen möchte ist hiermit gut bedient: [Programmieren mit der Maus](https://programmieren.wdrmaus.de/). Der Entwickler von Scratch (Mitchel Resnick) hat damit schon eine Epidemie-Simulation programmiert: [Scratch-Projekt Epidemic Simulation](https://scratch.mit.edu/projects/376656449). 
 
 
 ## JavaScript programmieren lernen mit dem Code Monster
