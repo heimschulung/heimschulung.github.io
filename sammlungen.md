@@ -25,3 +25,7 @@ Das Gemeinschaftsprojekt von SWR und WDR bietet modernes, mediengestütztes Lern
 ## Lernbiene
 
 Der Verlag Lernbiene bietet [kosenloses Übungsmaterial für den Heimunterricht](https://www.lernbiene.de/Sonderaktion-Heimunterricht/) im Rahmen einer Sonderaktion an. Die Unterlagen richten sich an 1-4 Klasse. 
+
+## Schlaukopf
+
+Eine [Sammlung von über 80'000 interaktiven Fragen](https://www.schlaukopf.ch/) zu allen Fächern aufgeteilt nach Schulstufen.
