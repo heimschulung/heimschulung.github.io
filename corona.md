@@ -10,9 +10,9 @@ Was ist ein Virus? Warum ist es so gefährlich und warum müssen wir jetzt alle 
 
 ## Corona Simulator
 
-Die Washington Post zeigt in [4 Animationen](https://www.washingtonpost.com/graphics/2020/world/corona-simulator) eindrücklich, was "Extensive Distancing" bringt, warum
+Die Washington Post zeigt in [4 Animationen](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) eindrücklich, was "Extensive Distancing" bringt, warum
 die Schulen geschlossen sind und warum wir für ein paar Wochen auch sonst unsere Kontakte auf ein Minimum reduzieren sollten.
-Wenn ihr den [Link](https://www.washingtonpost.com/graphics/2020/world/corona-simulator)
+Wenn ihr den [Link](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 öffnet dann kommen erst ein paar Banner, aber es lohnt sich total sich da durch-zu-klicken.
 Beat Ruedt hat sich an die Arbeit gemacht und die Amimationen aus der Washington Post zu einem [Video](https://www.youtube.com/watch?v=lbOSHEnqcVo) mit Erklärungen auf Deutsch zusammengeschnitten. 
 Mitch Resnick hat die Simulation in seiner visuellen Programmiersprache [Scratch](https://scratch.mit.edu/projects/376656449) programmiert.
