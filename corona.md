@@ -20,3 +20,7 @@ Mitch Resnick hat die Simulation in seiner visuellen Programmiersprache [Scratch
 ## Corona Actionbound
 
 Teste dein Wissen über den Corona Virus mit dem [Coronabound](https://actionbound.com/bound/coronabound) Actionbound Adventure.
+
+## Informationen des BAG zum Coronavirus in leichter Sprache
+
+Informationen zum Corona-Virus in [leichter Sprache](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/leichte-sprache.html).
