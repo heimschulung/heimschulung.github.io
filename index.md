@@ -45,7 +45,9 @@ Markdown ist eine einfache Syntax um Texte fürs Web zu erstellen. Hier ein paar
 
 Weiter Details zur Markdown Sprache gibts auf [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+
+<!-- this should let us track if anyone is using this ... 
+Fathom - simple website analytics - https://github.com/usefathom/fathom -->
 <script>
 (function(f, a, t, h, o, m){
 	a[h]=a[h]||function(){
