@@ -7,7 +7,7 @@ Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Ki
 * [Corona Virus](corona.md)
 * [Virtuelle Reisen](reisen.md)
 * [Informatik](programmieren.md)
-* [Deutsch](deutsch.md)
+* [Deutsch, Geschichten](deutsch.md)
 * [Mathematik](mathematik.md)
 * [Lernvideos, Wissens-Sendungen](videos.md)
 * [Lerninhalte erstellen](authoring.md)
