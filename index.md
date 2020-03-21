@@ -4,15 +4,15 @@ Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Ki
 
 ## Ressourcen
 
-* [Corona Virus](corona.md)
+* [Den Alltag ohne Schule meistern](alltag.md)
+* [Übungs-Sammlungen](sammlungen.md)
+* [Material zum Lernen über den Corona Virus](corona.md)
 * [Virtuelle Reisen](reisen.md)
 * [Informatik](programmieren.md)
 * [Deutsch, Geschichten](deutsch.md)
 * [Mathematik](mathematik.md)
 * [Lernvideos, Wissens-Sendungen](videos.md)
 * [Lerninhalte erstellen](authoring.md)
-* [Übungs-Sammlungen](sammlungen.md)
-* [Den Alltag ohne Schule meistern](alltag.md)
 * [Etwas ganz Neues lernen](newstuff.md)
 
 ## Letzte Änderungen
