@@ -10,3 +10,7 @@ Simone Abelmann bietet ab dem 30.3.2020 ein gratis Webinar im sketchnoting an. [
 ## Zentagle Muster Malen
 
 Zentangles sind geometrische Figuren und bestehen aus Strichen, Kreisen, Punkten, Halbkreisen. Das Prinzip des Zentangle Zeichnens ist, dass von den kleinen Elementen z.B. Punkt oder Strich begonnen wird und sozusagen von klein nach groß gemalt wird. [Ein Video mit 12 Mustern zum Nachmalen](https://youtu.be/QsBpNKiB2VE), [weiter Vorlagen](https://zentangle-vorlagen.de/).
+
+## Kochen
+
+Das Kochportal von Coop hat eine eigenen Berech für [kochen mit Kindern](https://little.fooby.ch/de.html)
