@@ -18,6 +18,10 @@ Schulfrei, alle Kinder zuhause. Ideen, wie man Kinder zuhause unterhalten kann? 
 
 * Von Eltern zur Elternentlastung: täglich um 9 gibt es eine halbe Stunde Lektion (Basteln, Themen, Infos,...), Mitarbeit erwünscht, 16.-19. März ist schon geplant, [hier](https://www.schlaumeier.online/?fbclid=IwAR0zTOJwJUzjQQRtvAfPEI8IX2UlYsgeULj257g8-mKCRvqSK6GlojfPE_4) das Programm.
 
+## Für die Eltern - Das Bravo Archiv
+
+Das [Bravo Archiv](http://bravo-archiv-shop.com/ein-wenig-licht-in-dunklen-zeiten) hat jeweils die erste Ausgabe der Jahrgänge 1956 bis 1994 frei zum Download bereitgestellt.
+
 ## Empfohlener Notvorrat
 
 * 4 Packungen Ohropax
