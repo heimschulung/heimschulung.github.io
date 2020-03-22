@@ -21,6 +21,10 @@ Von Eltern zur Elternentlastung: täglich um 9 gibt es eine halbe Stunde Lektion
 ## Kochen
 Viele Rezepte zum Kochen mit Kindern, mit vielen Fotos, für Jung- bis Meisterköche auf [little Fooby](https://little.fooby.ch/de.html)
 
+# mit-kindern-lernen.ch
+
+Das Team der Akademie für Lerncoaching hat eine [Seite](https://www.mit-kindern-lernen.ch/mehr-informationen/die-schule-ist-zu-wie-begleite-ich-mein-kind-beim-lernen-zu-hause) mit kostenlosen Hilfsmitteln erstellt. Die Sammlung wird täglich erweitet.
+
 ## Für die Eltern - Das Bravo Archiv
 
 Das [Bravo Archiv](http://bravo-archiv-shop.com/ein-wenig-licht-in-dunklen-zeiten) hat jeweils die erste Ausgabe der Jahrgänge 1956 bis 1994 frei zum Download bereitgestellt.
