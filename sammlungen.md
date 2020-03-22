@@ -32,4 +32,4 @@ Eine [Sammlung von über 80'000 interaktiven Fragen](https://www.schlaukopf.ch/)
 
 ## iLern
 
-Eine [Sammlung](https://ilern.ch) zu verschiedensten Schulthemen sortiert nach Klasse und Fach.
+Eine [Sammlung](https://ilern.ch) von interaktiven Übungen zu verschiedensten Schulthemen sortiert nach Klasse und Fach.
