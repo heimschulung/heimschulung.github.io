@@ -11,4 +11,7 @@ Simone Abelmann bietet ab dem 30.3.2020 ein gratis Webinar im sketchnoting an. [
 
 Zentangle sind dekorative Muster und bestehen aus einfachen Grundformen wie Strichen, Kreisen, Punkten und Halbkreisen - Achtung: kann süchtig machen! [Ein Video mit 12 einfachen Mustern zum Nachmalen](https://youtu.be/QsBpNKiB2VE) und [weitere Vorlagen](https://www.musterquelle.de/).
 
+## 50 Vogelstimmen
+
+Auf Seite von [AAA State of Play](https://www.aaastateofplay.com/50-bird-species-sounds-they-make/) sind 50 Vogelstimmen abrufbar. Ideal um zu lernen und um zu zweit ein kleines Quizz zu machen. Die Namen der Vögel auf English lernen kann man nebenbei auch gleich noch.
 
