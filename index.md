@@ -16,7 +16,7 @@ Wer für seine Kinder zu Zeiten der Schulschliessungen Beschäftigungsmöglichke
 
 ## Letzte Änderungen
 
-Wir erhalten laufend neues Material das wir in die Site einbauen. [Hier](https://github.com/heimschulung/heimschulung.github.io/commits/master) kannst du sehen was wir geaendert haben.
+Wir erhalten laufend neues Material das wir in die Site einbauen. [Hier](https://github.com/heimschulung/heimschulung.github.io/commits/master) kannst du sehen was wir geändert haben.
 
 ## Hilf mit!
 
