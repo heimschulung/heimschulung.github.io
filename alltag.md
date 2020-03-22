@@ -18,6 +18,9 @@ Schulfrei, alle Kinder zuhause. Ideen, wie man Kinder zuhause unterhalten kann? 
 
 Von Eltern zur Elternentlastung: täglich um 9 gibt es eine halbe Stunde Lektion (Basteln, Themen, Infos, Zaubern...), Mitarbeit erwünscht, sogar mit Schulglocke - [hier](https://www.schlaumeier.online/?fbclid=IwAR0zTOJwJUzjQQRtvAfPEI8IX2UlYsgeULj257g8-mKCRvqSK6GlojfPE_4) das Programm.
 
+## Kindersache.de
+Viele Ideen zum Basteln, Kochen, Eperimentieren vom Deutschen Kinderhilfswerk Berlin: [Kindersache.de](https://www.kindersache.de/bereiche/spiel-spass/selbermachen).
+
 ## Kochen
 Viele Rezepte zum Kochen mit Kindern, mit vielen Fotos, für Jung- bis Meisterköche auf [little Fooby](https://little.fooby.ch/de.html)
 
