@@ -1,14 +1,20 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "de-CH" }}">
 
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <meta property="og:url"                content="https://heimschulung.ch" />
+    <meta property="og:type"               content="article" />
+    <meta property="og:title"              content="heimschulung.ch/{{page.path}}" />
+    <meta property="og:description"        content="Eine Sammlung von Ressourcen für das Lernen zu Hause." />
+    <meta property="og:image"              content="https://heimschulung.ch/assets/heimschulung.jpg" />
+
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <style>
       #header_wrap {
-        background-image: url(/heimschulung.jpg);
+        background-image: url(/assets/heimschulung.jpg);
         background-size: cover;
         background-position: bottom;
         position: relative;
