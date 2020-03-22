@@ -23,20 +23,3 @@ Wir erhalten laufend neues Material das wir in die Site einbauen. [Hier](https:/
 ## Hilf mit!
 
 Hilf mit diese Sammlung zu erweitern. Erzeuge ein [Issue](https://github.com/heimschulung/heimschulung.github.io/issues/new/choose) mit deinem Hinweis oder editiere die Seiten direkt und mache dann einen Pull Request.
-
-<!-- this should let us track if anyone is using this ... 
-Fathom - simple website analytics - https://github.com/usefathom/fathom -->
-<script>
-(function(f, a, t, h, o, m){
-	a[h]=a[h]||function(){
-		(a[h].q=a[h].q||[]).push(arguments)
-	};
-	o=f.createElement('script'),
-	m=f.getElementsByTagName('script')[0];
-	o.async=1; o.src=t; o.id='fathom-script';
-	m.parentNode.insertBefore(o,m)
-})(document, window, '//analytics.oetiker.ch/tracker.js', 'fathom');
-fathom('set', 'siteId', 'KXVIU');
-fathom('trackPageview');
-</script>
-<!-- / Fathom -->
