@@ -8,6 +8,9 @@ In diesem Video der Stadt Wien, das sich speziell an Kinder richtet, wird erklä
 
 Was ist ein Virus? Warum ist es so gefährlich und warum müssen wir jetzt alle zuhause bleiben? Ralph von der [Sendung mit der Maus](https://www.wdrmaus.de/extras/mausthemen/corona/index.php5) beantwortet täglich eine Frage zum Thema.
 
+## Kindersache
+Die Webseite des Deutschen Kinderhilfswerks Berlin liefert gut verständliche Erklärungen für Kinder zum Thema Corona: [Kindersache.de](https://www.kindersache.de/bereiche/wissen/natur-und-mensch/die-wichtigsten-fragen-zum-coronavirus). 
+
 ## Corona Simulator
 
 Die Washington Post zeigt in [4 Animationen](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) eindrücklich, was "Extensive Distancing" bringt, warum
