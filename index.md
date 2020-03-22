@@ -1,6 +1,4 @@
-# Ressourcen für Heimschulung
-
-Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Kinder zu beschäftigen sind in der Zeit der geschlossenen Schulen. Der Zweck dieser Website ist es Ideen zu sammeln und zu teilen. 
+Wer für seine Kinder zu Zeiten der Schulschliessungen Beschäftigungsmöglichkeiten mit Bildungscharakter sucht ist hier genau richtig. Wir wollen hier Ideen sammeln und teilen. Für Lehrpersonen empfehlen wir die Seite [Lernen trotz Corona](https://www.lernentrotzcorona.ch/Lernentrotzcorona).
 
 ## Ressourcen
 
