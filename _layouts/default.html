@@ -11,9 +11,10 @@
         background-image: url(/heimschulung.jpg);
         background-size: cover;
         background-position: center;
+        position: relative;
       }
       #header_wrap::before {
-        background: hsla(0,0%,100%,.7);
+        background: hsla(0, 0%, 0%, 0.37);
         content: "";
         position: absolute;
         top: 0;
@@ -28,6 +29,10 @@
       }
       #forkme_banner {
         background-color: #929292;
+      }
+      header.inner {
+        z-index: 12;
+        padding: 90px 10px 30px 10px;
       }
     </style>
 {% seo %}
