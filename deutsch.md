@@ -13,4 +13,4 @@ Stefan Schlenker liest aus seinem Kinderbuch "Waudi Wau und der Streik der Tiere
 Netflix für die Ohren: beim WDR gibt es eine Menge wunderbarer [Hörspiele](https://www1.wdr.de/mediathek/audio/hoerspiel-speicher/index.html) zum online hören oder auch als Podcast - für Jugendliche und Eltern.
 
 ## Onilo
-Onilo bietet für eine Monat eine gratis Entdeckerlizenz für seine Boardstories (animierte Bilderbücher zum selber lesen oder vorlesen lassen). [Onilo.de](https://www.onilo.de/entdeckerlizenz)
+Onilo bietet für einen Monat eine gratis Entdeckerlizenz für seine Boardstories (animierte Bilderbücher zum selber lesen oder vorlesen lassen). [Onilo.de](https://www.onilo.de/entdeckerlizenz)
