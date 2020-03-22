@@ -7,4 +7,3 @@
 ## running.COACH
 
 Die geschlossenen Schulen und Lehrinstitute führen mitunter dazu, dass die Gestaltung des Sportunterrichts auf Distanz schwierig ausfällt. Die App [running.COACH](https://blog.runningcoach.me/2020/03/16/running-coach-gratis-fuer-den-sportunterricht-nutzen/) bietet SchülerInnen und StudentInnen die Möglichkeit, ein individuell angepasstes Trainingsprogramm zu erstellen.
-https://blog.runningcoach.me/2020/03/16/running-coach-gratis-fuer-den-sportunterricht-nutzen/
