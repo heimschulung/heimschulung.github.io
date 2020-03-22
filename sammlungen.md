@@ -33,3 +33,6 @@ Eine [Sammlung von über 80'000 interaktiven Fragen](https://www.schlaukopf.ch/)
 ## iLern
 
 Eine [Sammlung](https://ilern.ch) von interaktiven Übungen zu verschiedensten Schulthemen sortiert nach Klasse und Fach.
+
+## Schularena
+[Online-Übungen](https://www.schularena.com/home) zu Hör- und Leserverstehen in Deutsch, Englisch und Französisch für die Oberstufe.
