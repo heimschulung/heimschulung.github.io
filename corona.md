@@ -1,6 +1,6 @@
 # Corona Virus
 
-## Das Coronavirus Kindern einfach erklärt
+## Das Coronavirus für Kinder einfach erklärt
 
 In diesem Video der Stadt Wien, das sich speziell an Kinder richtet, wird erklärt, was das Coronavirus ist, was es tut und wie ihr euch vor ihm schützen könnt. Hier gehts zum [Video](https://youtu.be/_kU4oCmRFTw)
 
