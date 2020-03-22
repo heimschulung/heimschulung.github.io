@@ -9,7 +9,7 @@ Aktuell sind viele Eltern und Lehrpersonen mit der Frage konfrontiert wie die Ki
 * [Material zum Lernen über den Corona Virus](corona.md)
 * [Virtuelle Reisen](reisen.md)
 * [Informatik](programmieren.md)
-* [Turnen](turnen.md)
+* [Sport](turnen.md)
 * [Deutsch, Geschichten](deutsch.md)
 * [Mathematik](mathematik.md)
 * [Lernvideos, Wissens-Sendungen](videos.md)
