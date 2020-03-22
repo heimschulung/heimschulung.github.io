@@ -9,7 +9,7 @@ Für Lehrpersonen empfehlen wir die Seite [Lernen trotz Corona](https://www.lern
 * [Material zum Lernen über den Corona Virus](corona.md)
 * [Virtuelle Reisen](reisen.md)
 * [Informatik](programmieren.md)
-* [Sport](turnen.md)
+* [Sport](sport.md)
 * [Deutsch, Geschichten](deutsch.md)
 * [Mathematik](mathematik.md)
 * [Lernvideos, Wissens-Sendungen](videos.md)
