@@ -15,3 +15,6 @@ Zentangle sind dekorative Muster und bestehen aus einfachen Grundformen wie Stri
 
 Auf Seite von [AAA State of Play](https://www.aaastateofplay.com/50-bird-species-sounds-they-make/) sind 50 Vogelstimmen abrufbar. Ideal um zu lernen und um zu zweit ein kleines Quiz zu machen. Die Namen der Vögel auf Englisch lernen kann man nebenbei auch gleich noch.
 
+## Geräusche Quizz
+
+Nach den Vogelstimmen kannst du gleich beim [Geräuschequizz](https://www.planet-schule.de/mm/geraeusche-quiz/) von Planet Schule weitermachen.
