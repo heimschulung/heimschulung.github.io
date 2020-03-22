@@ -24,29 +24,6 @@ Wir erhalten laufend neues Material das wir in die Site einbauen. [Hier](https:/
 
 Hilf mit diese Sammlung zu erweitern. Erzeuge ein [Issue](https://github.com/heimschulung/heimschulung.github.io/issues/new/choose) mit deinem Hinweis oder editiere die Seiten direkt und mache dann einen Pull Request.
 
-### Kleine Markdown Anleitung
-
-Markdown ist eine einfache Syntax um Texte fürs Web zu erstellen. Hier ein paar Beispiele:
-
-```markdown
-# Titel
-## Untertitel
-### Abschnitt
-
-- Einfache
-- Liste
-
-1. Nummerierte
-2. Liste
-
-**Fett** and _Schräg_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-Weiter Details zur Markdown Sprache gibts auf [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
 <!-- this should let us track if anyone is using this ... 
 Fathom - simple website analytics - https://github.com/usefathom/fathom -->
 <script>
