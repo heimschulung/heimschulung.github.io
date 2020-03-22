@@ -21,7 +21,7 @@ Von Eltern zur Elternentlastung: täglich um 9 gibt es eine halbe Stunde Lektion
 ## Kochen
 Viele Rezepte zum Kochen mit Kindern, mit vielen Fotos, für Jung- bis Meisterköche auf [little Fooby](https://little.fooby.ch/de.html)
 
-# mit-kindern-lernen.ch
+## mit-kindern-lernen.ch
 
 Das Team der Akademie für Lerncoaching hat eine [Seite](https://www.mit-kindern-lernen.ch/mehr-informationen/die-schule-ist-zu-wie-begleite-ich-mein-kind-beim-lernen-zu-hause) mit kostenlosen Hilfsmitteln erstellt. Die Sammlung wird täglich erweitet.
 
