@@ -29,3 +29,7 @@ Der Verlag Lernbiene bietet [kosenloses Übungsmaterial für den Heimunterricht]
 ## Schlaukopf
 
 Eine [Sammlung von über 80'000 interaktiven Fragen](https://www.schlaukopf.ch/) zu allen Fächern aufgeteilt nach Schulstufen.
+
+## iLearn
+
+Eine [Sammlung](https://ilearn.ch) zu verschiedensten Schulthemen sortiert nach Klasse und Fach.
