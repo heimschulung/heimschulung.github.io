@@ -14,4 +14,4 @@ Familiensport, Power Training oder Yoga: Mit der Aktion "Der rbb macht Fitness" 
 
 ## Der 7 Minuten Workout
 
-[Eine App mit 72 Fitnessübungen](https://7minuteworkout.jnj.com/), ihr könnt sie entweder selber zusammenstellen oder vorgefertigte Trainings nutzen. 7 Minuten Sport pro Tag! Die ganze Familie kan mitmachen. Keine Sportgeräte notwendig.
+[Eine App mit 72 Fitnessübungen](https://7minuteworkout.jnj.com/), ihr könnt sie entweder selber zusammenstellen oder vorgefertigte Trainings nutzen. Sieben Minuten Sport pro Tag sollen reichen um fit zu bleiben! Die ganze Familie kann mitmachen. Keine Sportgeräte notwendig.
