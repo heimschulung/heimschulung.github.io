@@ -35,4 +35,13 @@ Eine [Sammlung von über 80'000 interaktiven Fragen](https://www.schlaukopf.ch/)
 Eine [Sammlung](https://ilern.ch) von interaktiven Übungen zu verschiedensten Schulthemen sortiert nach Klasse und Fach.
 
 ## Schularena
+
 [Online-Übungen](https://www.schularena.com/home) zu Hör- und Leserverstehen in Deutsch, Englisch und Französisch für die Oberstufe.
+
+## iPad-Schule
+
+Eine grosse Sammlung von iPad Apps sortiert nach [Zyklus 1](http://www.ipad-schule.ch/Apps/Zyklus1/), [Zyklus 2](http://www.ipad-schule.ch/Apps/Zyklus2/) und [Zyklus 3](http://www.ipad-schule.ch/Apps/Zyklus3/).
+
+## Imedias AppAdvisor
+
+Umfangreiche [App Sammlung](https://imedias-appadvisor.ch/) mit verschiedenen Filtermöglichkeiten, für iOS und Android.
