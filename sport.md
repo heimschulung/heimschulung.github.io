@@ -15,3 +15,7 @@ Familiensport, Power Training oder Yoga: Mit der Aktion "Der rbb macht Fitness" 
 ## Der 7 Minuten Workout
 
 [Eine App mit 72 Fitnessübungen](https://7minuteworkout.jnj.com/), ihr könnt sie entweder selber zusammenstellen oder vorgefertigte Trainings nutzen. Sieben Minuten Sport pro Tag sollen reichen um fit zu bleiben! Die ganze Familie kann mitmachen. Keine Sportgeräte notwendig.
+
+## Rosa & Ruedi
+
+Räuber und Poli, Hampelmann und Purzelbaum. Das Erleben von vielseitigen Bewegungserfahrungen gehört zu einer aktiven Kindheit dazu. Während der Präsenzunterricht an den Schulen ausfällt, kannst du jeden Tag mit Rosa und Ruedi turnen! Täglich um 09:30 präsentieren dir [Rosa und Ruedi](http://rosaundruedi.ch/) neue, spannende und herausfordernde Bewegungsideen, welche du zu Hause nachmachen kannst.
