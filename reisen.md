@@ -14,4 +14,8 @@ Geführte Rundgänge im antike Griechenland bzw. Ägypten inklusive freier Erkun
 
 ## Kinderweltreise
 
-Im [interaktiven Atlas](https://www.kinderweltreise.de/) gibt es eine Fülle von Informationen zu jedem Land der Erde. Von Kochrezepten zu Geschichten aus dem Alltag und kleinen Spielen. 
+Im [interaktiven Atlas](https://www.kinderweltreise.de/) gibt es eine Fülle von Informationen zu jedem Land der Erde. Von Kochrezepten zu Geschichten aus dem Alltag und kleinen Spielen.
+
+## Landesmuseum
+
+Video-Führungen anschauen und spannende Aufgaben lösen im [Onlinebereich des Schweizer Landesmuseum](https://www.landesmuseum.ch/online-schulunterlagen).
