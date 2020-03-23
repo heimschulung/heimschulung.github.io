@@ -19,3 +19,7 @@ Familiensport, Power Training oder Yoga: Mit der Aktion "Der rbb macht Fitness" 
 ## Rosa & Ruedi
 
 Räuber und Poli, Hampelmann und Purzelbaum. Das Erleben von vielseitigen Bewegungserfahrungen gehört zu einer aktiven Kindheit dazu. Während der Präsenzunterricht an den Schulen ausfällt, kannst du jeden Tag mit Rosa und Ruedi turnen! Täglich um 09:30 präsentieren dir [Rosa und Ruedi](http://rosaundruedi.ch/) neue, spannende und herausfordernde Bewegungsideen, welche du zu Hause nachmachen kannst.
+
+## ALBAs Sportstunde
+
+ALBA bringt mit [„ALBAs Sportstunde“](https://www.youtube.com/playlist?list=PL9H8VPpyaFzOU7WShhUg25QyoIQrt7MSx) täglich Bewegung, Fitness und Wissenswertes für Kinder und Jugendliche.
