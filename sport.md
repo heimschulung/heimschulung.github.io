@@ -12,3 +12,6 @@ Die App [running.COACH](https://blog.runningcoach.me/2020/03/16/running-coach-gr
 
 Familiensport, Power Training oder Yoga: Mit der Aktion "Der rbb macht Fitness" wird der Sport  zwei Mal täglich per Livestream angeliefert. Details im [Artikel](https://www.rbb24.de/sport/beitrag/2020/03/der-rbb-macht-fitness-sport-fuer-zuhause-workout-kinder-familie.html).
 
+## Der 7 Minuten Workout
+
+[Eine App mit 72 Fitnessübungen](https://7minuteworkout.jnj.com/), ihr könnt sie entweder selber zusammenstellen oder vorgefertigte Trainings nutzen. 7 Minuten Sport pro Tag! Die ganze Familie kan mitmachen. Keine Sportgeräte notwendig.
