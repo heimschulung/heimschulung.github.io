@@ -22,4 +22,4 @@ Wir erhalten laufend neues Material das wir in die Site einbauen. [Hier](https:/
 
 ## Hilf mit!
 
-Hilf mit diese Sammlung zu erweitern. Erzeuge ein [Issue](https://github.com/heimschulung/heimschulung.github.io/issues/new/choose) mit deinem Hinweis oder editiere die Seiten direkt und mache dann einen Pull Request.
+Hilf mit diese Sammlung zu erweitern. Mache einfach einen Kommentar unten ins Feld, oder falls du GitHub kennst, erzeuge ein [Issue](https://github.com/heimschulung/heimschulung.github.io/issues/new/choose) mit deinem Hinweis oder editiere die Seiten direkt und mache dann einen Pull Request.
