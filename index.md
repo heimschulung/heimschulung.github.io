@@ -1,6 +1,6 @@
 Wer für seine Kinder zu Zeiten der Schulschliessungen Beschäftigungsmöglichkeiten mit Bildungscharakter sucht ist hier genau richtig. Auf dieser Seite sammeln wir Ideen für den Alltag. 
 
-Für Lehrpersonen empfehlen wir die Seite [Lernen trotz Corona](https://www.lernentrotzcorona.ch/Lernentrotzcorona).
+Für Lehrpersonen empfehlen wir die Seiten [Lernen trotz Corona](https://www.lernentrotzcorona.ch/Lernentrotzcorona) oder [Distance Learning von imedias](https://www.imedias.ch/service/distance_learning.cfm).
 
 ## Ressourcen
 
