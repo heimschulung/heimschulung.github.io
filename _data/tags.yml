@@ -1,0 +1,12 @@
+alltag:
+  icon: fa-solid-home
+  titl: Alltag
+sport:
+  icon: fa-solid-running
+  titl: Sport
+live:
+  icon: fa-solid-camera
+  titl: Live
+creative:
+  icon: fa-solid-theater-masks
+  titl: Kreativ
