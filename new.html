@@ -31,7 +31,7 @@ layout: mosaic
         {% assign file = link_hash[0] %}
         {% assign link = link_hash[1] %}
         <li data-tags="{% for tag in link.tags %}{{ tag }} {% endfor %}" data-title="{{ link.titl }}"">
-          <div class="uk-card uk-card-secondary">
+          <div class="uk-card uk-card-default">
             <a href="{{ link.href }}" class="uk-link-reset" target="_blank">
             <div class="uk-card-body" >
               <h5 class="uk-card-title">{{ link.titl }}</h5>
