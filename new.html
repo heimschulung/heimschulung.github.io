@@ -1,0 +1,55 @@
+---
+layout: mosaic
+---
+
+<div uk-filter="target: .js-filter">
+
+    <div class="uk-grid-small uk-child-width-auto" uk-grid>
+        <div>
+            <ul class="uk-subnav uk-subnav-pill" uk-margin>
+                <li class="uk-active" uk-filter-control><a href="#">Alles</a></li>
+            </ul>
+        </div>
+        <div>
+            <ul class="uk-subnav uk-subnav-pill" uk-margin>
+            {% for tag in site.data.tags %}
+              <li uk-filter-control="filter: [data-tags*='{{ tag[0] }}']; group: data-tag">
+                <a href="#"><i uk-icon="icon: {{ tag[1].icon }}; ratio: 0.7;"></i> {{ tag[1].titl }}</a>
+              </li>
+            {% endfor %}
+            </ul>
+        </div>
+        <div class="uk-width-expand uk-text-right uk-text-nowrap">
+            <span class="uk-active" uk-filter-control="sort: data-title"><a class="uk-icon-link" href="#" uk-icon="icon: fa-solid-sort-down"></a></span>
+            <span uk-filter-control="sort: data-title; order: desc"><a class="uk-icon-link" href="#" uk-icon="icon: fa-solid-sort-up"></a></span>
+
+        </div>
+    </div>
+
+    <ul class="js-filter uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-3@m uk-child-width-1-4@l"
+        uk-grid="masonry: true">
+        {% for link_hash in site.data.links %}
+        {% assign file = link_hash[0] %}
+        {% assign link = link_hash[1] %}
+        <li data-tags="{% for tag in link.tags %}{{ tag }} {% endfor %}" data-title="{{ link.titl }}"">
+          <div class="uk-card uk-card-default uk-background-cover"
+            style="background-image: url({{
+                "/assets/bg/" | append: file | append: ".jpg" | relative_url }});">
+            <div class="uk-card-body uk-overlay-default" style="backdrop-filter: blur(2px);" >
+              <h4 class="uk-card-title">{{ link.titl }}</h4>
+              <div>{{ link.desc }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</div>
+            </div>
+            <div class="uk-position-top-right uk-padding-small">
+                  {% for tag in link.tags %}
+                    <i uk-icon="icon: {{ site.data.tags[tag].icon }}; ratio: 0.8;"></i>
+                  {% endfor %}
+            </div>
+            <div class="uk-position-bottom-right uk-padding-small uk-dark">
+                <a href="{{ link.href }}" target="_blank" class="uk-icon-button uk-text-primary" uk-icon="icon: fa-solid-link; ratio: 0.8;"></a>
+            </div>
+          </div>
+        </li>
+        {% endfor %}
+    </ul>
+
+</div>
