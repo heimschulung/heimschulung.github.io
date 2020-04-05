@@ -20,8 +20,8 @@ layout: mosaic
             </ul>
         </div>
         <div class="uk-width-expand uk-text-right uk-text-nowrap">
-            <span class="uk-active" uk-filter-control="sort: data-title"><a class="uk-icon-link" href="#" uk-icon="icon: fa-solid-sort-down"></a></span>
-            <span uk-filter-control="sort: data-title; order: desc"><a class="uk-icon-link" href="#" uk-icon="icon: fa-solid-sort-up"></a></span>
+            <span class="uk-active" uk-filter-control="sort: data-date; order: desc"><a class="uk-icon-link" href="#" uk-icon="icon: fa-solid-sort-down"></a></span>
+            <span uk-filter-control="sort: data-date;"><a class="uk-icon-link" href="#" uk-icon="icon: fa-solid-sort-up"></a></span>
         </div>
     </div>
 
@@ -30,11 +30,12 @@ layout: mosaic
         {% for link_hash in site.data.links %}
         {% assign file = link_hash[0] %}
         {% assign link = link_hash[1] %}
-        <li data-tags="{% for tag in link.tags %}{{ tag }} {% endfor %}" data-title="{{ link.titl }}"">
+        <li data-tags="{% for tag in link.tags %}{{ tag }} {% endfor %}" data-date="{{ link.date }}"">
           <div class="uk-card uk-card-default">
             <a href="{{ link.href }}" class="uk-link-reset" target="_blank">
             <div class="uk-card-body" >
-              <h5 class="uk-card-title">{{ link.titl }}</h5>
+              <div class="uk-text-large uk-margin-small-top">{{ link.titl }}</div>
+              <div class="uk-text-meta uk-margin-small-top uk-margin-bottom">{{ link.date | date: "%d.%m.%Y" }}</div>
               <div>{{ link.desc }}</div>
             </div>
             <div class="uk-position-top-right uk-padding-small">
