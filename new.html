@@ -22,7 +22,6 @@ layout: mosaic
         <div class="uk-width-expand uk-text-right uk-text-nowrap">
             <span class="uk-active" uk-filter-control="sort: data-title"><a class="uk-icon-link" href="#" uk-icon="icon: fa-solid-sort-down"></a></span>
             <span uk-filter-control="sort: data-title; order: desc"><a class="uk-icon-link" href="#" uk-icon="icon: fa-solid-sort-up"></a></span>
-
         </div>
     </div>
 
@@ -32,24 +31,24 @@ layout: mosaic
         {% assign file = link_hash[0] %}
         {% assign link = link_hash[1] %}
         <li data-tags="{% for tag in link.tags %}{{ tag }} {% endfor %}" data-title="{{ link.titl }}"">
-          <div class="uk-card uk-card-default uk-background-cover"
-            style="background-image: url({{
-                "/assets/bg/" | append: file | append: ".jpg" | relative_url }});">
-            <div class="uk-card-body uk-overlay-default" style="backdrop-filter: blur(2px);" >
-              <h4 class="uk-card-title">{{ link.titl }}</h4>
-              <div>{{ link.desc }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</div>
+          <div class="uk-card uk-card-secondary">
+            <a href="{{ link.href }}" class="uk-link-reset" target="_blank">
+            <div class="uk-card-body" >
+              <h5 class="uk-card-title">{{ link.titl }}</h5>
+              <div>{{ link.desc }}</div>
             </div>
             <div class="uk-position-top-right uk-padding-small">
                   {% for tag in link.tags %}
-                    <i uk-icon="icon: {{ site.data.tags[tag].icon }}; ratio: 0.8;"></i>
+                    &nbsp;<i uk-icon="icon: {{ site.data.tags[tag].icon }}; ratio: 0.8;"></i>
                   {% endfor %}
             </div>
-            <div class="uk-position-bottom-right uk-padding-small uk-dark">
-                <a href="{{ link.href }}" target="_blank" class="uk-icon-button uk-text-primary" uk-icon="icon: fa-solid-link; ratio: 0.8;"></a>
-            </div>
+
+            <div class="uk-card-media-bottom">
+              <img src="{{
+                "/assets/bg/" | append: file | append: ".jpg" | relative_url }}" alt="">
+            </div></a>
           </div>
         </li>
         {% endfor %}
     </ul>
-
 </div>
