@@ -10,3 +10,24 @@ live:
 creative:
   icon: fa-solid-theater-masks
   titl: Kreativ
+collection:
+  icon: fa-solid-list
+  titl: Sammlung
+coding:
+  icon: fa-solid-laptop-code
+  titl: Programmieren
+story:
+  icon: fa-solid-frog
+  titl: Geschichten
+math:
+  icon: fa-solid-square-root-alt
+  titl: Mathe
+tv:
+  icon: fa-solid-tv
+  titl: Videos
+authoring:
+  icon: fa-solid-plus-square
+  titl: Neue Lerninhalte
+cooking:
+  icon: fa-solid-hat-chef
+  titl: Kochen
