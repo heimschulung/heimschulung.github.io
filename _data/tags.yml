@@ -5,7 +5,7 @@ sport:
   icon: fa-solid-running
   titl: Sport
 live:
-  icon: fa-solid-camera
+  icon: fa-solid-video
   titl: Live
 creative:
   icon: fa-solid-theater-masks
@@ -22,12 +22,12 @@ story:
 math:
   icon: fa-solid-square-root-alt
   titl: Mathe
-tv:
+video:
   icon: fa-solid-tv
   titl: Videos
-authoring:
+create:
   icon: fa-solid-plus-square
-  titl: Neue Lerninhalte
+  titl: Create
 cooking:
-  icon: fa-solid-hat-chef
+  icon: fa-regula-hat-chef
   titl: Kochen
