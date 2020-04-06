@@ -1,33 +1,33 @@
 alltag:
-  icon: fa-solid-home
+  icon: fas fa-home
   titl: Alltag
 sport:
-  icon: fa-solid-running
+  icon: fas fa-running
   titl: Sport
 live:
-  icon: fa-solid-video
+  icon: fas fa-video
   titl: Live
 creative:
-  icon: fa-solid-theater-masks
+  icon: fas fa-theater-masks
   titl: Kreativ
 collection:
-  icon: fa-solid-list
+  icon: fas fa-list
   titl: Sammlung
 coding:
-  icon: fa-solid-laptop-code
+  icon: fas fa-laptop-code
   titl: Programmieren
 story:
-  icon: fa-solid-frog
+  icon: fas fa-frog
   titl: Geschichten
 math:
-  icon: fa-solid-square-root-alt
+  icon: fas fa-square-root-alt
   titl: Mathe
 video:
-  icon: fa-solid-tv
+  icon: fas fa-tv
   titl: Videos
 create:
-  icon: fa-solid-plus-square
+  icon: fas fa-plus-square
   titl: Create
 cooking:
-  icon: fa-regula-hat-chef
+  icon: far fa-cauldron
   titl: Kochen

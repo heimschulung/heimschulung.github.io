@@ -14,14 +14,14 @@ layout: mosaic
             <ul class="uk-subnav uk-subnav-pill" uk-margin>
             {% for tag in site.data.tags %}
               <li uk-filter-control="filter: [data-tags*='{{ tag[0] }}']; group: data-tag">
-                <a href="#"><i uk-icon="icon: {{ tag[1].icon }}; ratio: 0.7;"></i> {{ tag[1].titl }}</a>
+                <a href="#"><i class="{{ tag[1].icon }}"></i> {{ tag[1].titl }}</a>
               </li>
             {% endfor %}
             </ul>
         </div>
         <div class="uk-width-expand uk-text-right uk-text-nowrap">
-            <span class="uk-active" uk-filter-control="sort: data-date; order: desc"><a class="uk-icon-link" href="#" uk-icon="icon: fa-solid-sort-down"></a></span>
-            <span uk-filter-control="sort: data-date;"><a class="uk-icon-link" href="#" uk-icon="icon: fa-solid-sort-up"></a></span>
+            <span class="uk-active" uk-filter-control="sort: data-date; order: desc"><a href="#" uk-icon="icon: arrow-down"></a></span>
+            <span uk-filter-control="sort: data-date;"><a class="uk-icon-link" href="#" uk-icon="icon: arrow-up"></a></span>
         </div>
     </div>
   </div>
@@ -40,7 +40,7 @@ layout: mosaic
             </div>
             <div class="uk-position-top-right uk-padding-small">
                   {% for tag in link.tags %}
-                    &nbsp;<i uk-icon="icon: {{ site.data.tags[tag].icon }}; ratio: 0.8;"></i>
+                    &nbsp;<i class="{{ site.data.tags[tag].icon }}"></i>
                   {% endfor %}
             </div>
 
