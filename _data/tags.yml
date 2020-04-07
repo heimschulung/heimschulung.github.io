@@ -6,13 +6,13 @@ sport:
   titl: Sport
 live:
   icon: fas fa-video
-  titl: Live
+  titl: Live Veranstaltungen
 creative:
   icon: fas fa-theater-masks
-  titl: Kreativ
+  titl: Kreativität
 collection:
   icon: fas fa-list
-  titl: Sammlung
+  titl: Material Sammlung
 coding:
   icon: fas fa-laptop-code
   titl: Programmieren
@@ -21,13 +21,13 @@ story:
   titl: Geschichten
 math:
   icon: fas fa-square-root-alt
-  titl: Mathe
+  titl: Mathematik
 video:
   icon: fas fa-tv
   titl: Videos
 create:
   icon: fas fa-plus-square
-  titl: Create
+  titl: Unterrichtsmaterial Erstellen
 cooking:
   icon: far fa-cauldron
   titl: Kochen

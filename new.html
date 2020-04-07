@@ -14,7 +14,7 @@ layout: mosaic
             <ul class="uk-subnav uk-subnav-pill" uk-margin>
             {% for tag in site.data.tags %}
               <li uk-filter-control="filter: [data-tags*='{{ tag[0] }}']; group: data-tag">
-                <a href="#"><i class="{{ tag[1].icon }}"></i> {{ tag[1].titl }}</a>
+                <a href="#"><i class="{{ tag[1].icon }}"></i>&nbsp; {{ tag[1].titl }}</a>
               </li>
             {% endfor %}
             </ul>
@@ -43,11 +43,13 @@ layout: mosaic
                     &nbsp;<i class="{{ site.data.tags[tag].icon }}"></i>
                   {% endfor %}
             </div>
-
+            {% if link.pict == "yes" %}
             <div class="uk-card-media-bottom">
               <img src="{{
                 "/assets/bg/" | append: file | append: ".jpeg" | relative_url }}" alt="">
-            </div></a>
+            </div>
+            {% endif %}
+            </a>
             <div class="uk-position-bottom-right uk-padding-small">
               <a style="color: rgba(128,128,128,0.2)" href="{{ "https://github.com/heimschulung/heimschulung.github.io/edit/master/_data/links/" | append: file | append: ".yaml" }}" target="_blank"><i class="fas fa-pencil-alt"></i></a>
             </div>
