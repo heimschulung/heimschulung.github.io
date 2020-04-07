@@ -31,3 +31,6 @@ create:
 cooking:
   icon: far fa-cauldron
   titl: Kochen
+corona:
+  icon: fas fa-virus
+  title: COVID-19
