@@ -43,10 +43,9 @@ layout: mosaic
                     &nbsp;<i class="{{ site.data.tags[tag].icon }}"></i>
                   {% endfor %}
             </div>
-            {% if link.pict == "yes" %}
+            {% if link.pict %}
             <div class="uk-card-media-bottom">
-              <img src="{{
-                "/assets/bg/" | append: file | append: ".jpeg" | relative_url }}" alt="">
+              <img src="{{"/assets/bg/" | append: file | append: ".jpeg" | relative_url }}"  alt="" />
             </div>
             {% endif %}
             </a>
