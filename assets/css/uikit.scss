@@ -17,7 +17,3 @@ $overlay-default-background: rgba($global-background, 0.7);
 
 // 4. Import UIkit.
 @import "uikit-theme.scss";
-
-#topic-selector.uk-active #topic-list .uk-subnav-pill li:not(.uk-active) {
-    display: none;
-}
