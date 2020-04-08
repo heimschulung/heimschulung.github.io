@@ -34,3 +34,6 @@ cooking:
 corona:
   icon: fas fa-virus
   titl: COVID-19
+skill:
+  icon: fas fa-toolbox
+  titl: Neue Fähigkeiten
