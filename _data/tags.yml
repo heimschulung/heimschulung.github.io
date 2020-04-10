@@ -41,7 +41,7 @@ app:
   icon: fas fa-mobile-alt
   titl: Mobile App
 ios:
-  icon: app-store-ios
+  icon: fab fa-app-store-ios
   titl: iOS
 android:
   icon: fab fa-android
