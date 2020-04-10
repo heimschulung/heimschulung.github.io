@@ -37,3 +37,21 @@ corona:
 skill:
   icon: fas fa-toolbox
   titl: Neue Fähigkeiten
+app:
+  icon: fas fa-mobile-alt
+  titl: Mobile App
+ios:
+  icon: app-store-ios
+  titl: iOS
+android:
+  icon: fab fa-android
+  titl: Androis
+web:
+  icon: far fa-browser
+  titl: Online App
+daily:
+  icon: fas fa-sun
+  titl: Regelmässige Updates
+printable:
+  icon: far fa-file-pdf
+  titl: Zum Ausdrucken
