@@ -1,57 +1,75 @@
 alltag:
   icon: fas fa-home
-  titl: Alltag
-sport:
-  icon: fas fa-running
-  titl: Sport
-live:
-  icon: fas fa-video
-  titl: Live Veranstaltungen
-creative:
-  icon: fas fa-theater-masks
-  titl: Kreativität
-collection:
-  icon: fas fa-list
-  titl: Material Sammlung
-coding:
-  icon: fas fa-laptop-code
-  titl: Programmieren
-story:
-  icon: fas fa-frog
-  titl: Geschichten
+  titl: Kinder Zuhause
 math:
   icon: fas fa-square-root-alt
   titl: Mathematik
-video:
-  icon: fas fa-tv
-  titl: Videos
-create:
-  icon: fas fa-plus-square
-  titl: Unterrichtsmaterial Erstellen
-cooking:
-  icon: far fa-cauldron
-  titl: Kochen
+sprache:
+  icon: fas fa-language
+  titl: Sprache
+nmg:
+  icon: fas fa-microscope 
+  titl: NMG
+sport:
+  icon: fas fa-running
+  titl: Sport
+unterhaltung:
+  icon: far fa-tv-retro
+  titl: Unterhaltung
+creative:
+  icon: fas fa-theater-masks
+  titl: Kreativität
 corona:
   icon: fas fa-virus
   titl: COVID-19
-skill:
-  icon: fas fa-toolbox
-  titl: Neue Fähigkeiten
+collection:
+  icon: fas fa-list
+  titl: Link Sammlung
 app:
   icon: fas fa-mobile-alt
   titl: Mobile App
-ios:
-  icon: fab fa-app-store-ios
-  titl: iOS
-android:
-  icon: fab fa-android
-  titl: Androis
-web:
-  icon: far fa-browser
-  titl: Online App
 daily:
   icon: fas fa-sun
-  titl: Regelmässige Updates
+  titl: Regelmässig neue Inhalte
+live:
+  icon: fas fa-video
+  titl: Live Veranstaltungen
 printable:
   icon: far fa-file-pdf
   titl: Zum Ausdrucken
+cooking:
+  icon: far fa-cauldron
+  titl: Kochen
+  hide: yes
+coding:
+  icon: fas fa-laptop-code
+  titl: Programmieren
+  hide: yes
+story:
+  icon: fas fa-frog
+  titl: Geschichten
+  hide: yes
+video:
+  icon: fas fa-tv
+  titl: Videos
+  hide: yes
+create:
+  icon: fas fa-plus-square
+  titl: Unterrichtsmaterial Erstellen
+  hide: yes
+skill:
+  icon: fas fa-toolbox
+  titl: Neue Fähigkeiten
+  hide: yes
+ios:
+  icon: fab fa-app-store-ios
+  titl: iOS
+  hide: yes
+android:
+  icon: fab fa-android
+  titl: Android
+  hide: yes
+web:
+  icon: far fa-browser
+  titl: Online App
+  hide: yes
