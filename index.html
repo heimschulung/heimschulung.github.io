@@ -17,7 +17,7 @@ layout: mosaic
         <div id="topic-list">
             <ul class="uk-subnav uk-subnav-pill" uk-margin>
             {% for tag in site.data.tags %}
-              {% if not tag[1].hide %}
+              {% if tag[1].hide != true %}
               <li uk-filter-control="filter: [data-tags*='{{ tag[0] }}']; group: data-tag">
                 <a href="#"><i class="{{ tag[1].icon }}"></i>&nbsp; {{ tag[1].titl }}</a>
               </li>
