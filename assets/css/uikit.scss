@@ -17,3 +17,7 @@ $overlay-default-background: rgba($global-background, 0.7);
 
 // 4. Import UIkit.
 @import "uikit-theme.scss";
+
+.select-shadow {
+  box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
+}
