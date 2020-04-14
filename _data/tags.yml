@@ -8,7 +8,7 @@ sprache:
   icon: fas fa-language
   titl: Sprache
 nmg:
-  icon: fas fa-microscope 
+  icon: fas fa-microscope
   titl: NMG
 sport:
   icon: fas fa-running
@@ -19,6 +19,9 @@ unterhaltung:
 creative:
   icon: fas fa-theater-masks
   titl: Kreativität
+cool:
+  icon: fal fa-sunglasses
+  titl: Cool Skills
 corona:
   icon: fas fa-virus
   titl: COVID-19
