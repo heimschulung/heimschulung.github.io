@@ -3,11 +3,11 @@
 // 1. Your custom variables and variable overwrites.
 $global-color: #000;
 $primary-color: #000;
-// 2. Import default variables and available mixins.
-@import "variables-theme.scss";
-
 $overlay-default-background: rgba($global-background, 0.7);
 $global-font-family: Roboto, sans-serif;
+
+// 2. Import default variables and available mixins.
+@import "variables-theme.scss";
 
 
 @import "mixins-theme.scss";
