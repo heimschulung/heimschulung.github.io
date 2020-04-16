@@ -7,6 +7,7 @@ $primary-color: #000;
 @import "variables-theme.scss";
 
 $overlay-default-background: rgba($global-background, 0.7);
+$global-font-family: Roboto, sans-serif;
 
 
 @import "mixins-theme.scss";
